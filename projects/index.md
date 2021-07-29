@@ -1,5 +1,5 @@
 ---
-title: Resume
+title: Projects
 layout: default
 ---
 
