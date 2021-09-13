@@ -1,7 +1,10 @@
-<nav>
-    {% for item in site.data.navigation %}
-    <a href="{{ item.link }}">
-      {{ item.name }}
-    </a>
-  {% endfor %}
-</nav>
+<div class="topbar">
+  <img src="/assets/images/initial_b.png">
+  <nav>
+      {% for item in site.data.navigation %}
+      <a href="{{ item.link }}">
+        {{ item.name }}
+      </a>
+    {% endfor %}
+  </nav>
+</div>

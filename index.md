@@ -1,6 +1,8 @@
 ---
-title: Benjamin Madisen White
+title: Ben White - Home
 layout: default
 ---
 
-Hi! I'm Ben White - an unfortunately common name for SEO and finding a domain for a personal website! I work at the intersection of statistics and computer science that sometimes goes by the name Data Science.
+# Hello! I'm Ben (Madisen) White -
+
+an [unfortunately common](https://en.wikipedia.org/wiki/Benjamin_White) name for creating a personal website! This website is primarily a showcase of my personal [projects](/projects), but you can learn a bit more [about me](/about) too.

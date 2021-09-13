@@ -1,5 +1,5 @@
 ---
-title: Ben White - Projects
+title: Ben White - About Me
 layout: default
 ---
 
