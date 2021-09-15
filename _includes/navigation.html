@@ -1,13 +1,17 @@
 <div class="topbar">
   <img src="/assets/images/initial_b.png">
   <nav>
+    <div class="local">
       {% for item in site.data.navigation %}
       <a href="{{ item.link }}">
         {{ item.name }}
       </a>
-    {% endfor %}
+      {% endfor %}
+    </div>
+    <div class="external">
       <a href="/"><i class="fab fa-github"></i></a>
       <a href="/"><i class="fab fa-linkedin-in"></i></a>
+    </div>
   </nav>
 </div>
 <hr class="solid">
