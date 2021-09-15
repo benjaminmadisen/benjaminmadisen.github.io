@@ -21,9 +21,13 @@ nav {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: bold;
     display: flex;
-    justify-content: right;
-    align-items: center;
+    align-items: flex-end;
+    flex-direction: column;
     
+}
+nav div {
+  padding-top: 2px;
+  padding-bottom: 2px;
 }
 nav a {
     padding-right: 10px;
