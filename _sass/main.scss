@@ -17,6 +17,10 @@ div.topbar {
 img {
   height: 3.5em;
 }
+footer {
+  justify-content: center;
+  color: gainsboro;
+}
 nav {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: bold;
@@ -35,5 +39,8 @@ nav a {
     text-decoration: none;
 }
 body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     font-family: 'Source Sans Pro', sans-serif;
 }
