@@ -19,7 +19,9 @@ img {
 }
 footer {
   justify-content: center;
-  color: gainsboro;
+  text-align: center;
+  color: #b3b3b3;
+  margin-top:auto;
 }
 nav {
     font-family: 'Source Sans Pro', sans-serif;
@@ -43,4 +45,6 @@ body {
     flex-direction: column;
     justify-content: space-between;
     font-family: 'Source Sans Pro', sans-serif;
+    min-height: 100vh;
+    margin: 0;
 }
