@@ -1,6 +1,6 @@
 ---
 title: Ben White - Projects
-layout: default
+layout: projects
 ---
 
-Placeholder text! Lorem ipsum skol Vikings.
+## Projects
