@@ -1,5 +1,5 @@
 ---
-title: Ben White - Projects
+title: Projects
 layout: projects
 ---
 

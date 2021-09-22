@@ -1,5 +1,5 @@
 ---
-title: Ben White - About Me
+title: About Me
 layout: default
 ---
 

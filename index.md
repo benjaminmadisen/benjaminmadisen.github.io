@@ -1,5 +1,5 @@
 ---
-title: Ben White - Home
+title: Home
 layout: default
 ---
 
