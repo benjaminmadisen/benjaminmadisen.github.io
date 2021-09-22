@@ -3,4 +3,4 @@ title: Projects
 layout: projects
 ---
 
-## Projects
+# Projects
