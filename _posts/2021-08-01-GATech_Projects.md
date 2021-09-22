@@ -3,6 +3,8 @@ title:  "Georgia Tech Projects"
 layout: default
 ---
 
+# Georgia Tech Projects
+
 I completed a Masters of Science degree in CS from Georgia Tech in August 2021! Because many of the projects I worked on for classes are still being used, plagiarism rules prevent me from sharing all the details of what I worked on in the program. But I can share some particular projects and classes!
 
 ## CS 7643, Deep Learning
