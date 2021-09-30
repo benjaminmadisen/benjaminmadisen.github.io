@@ -5,7 +5,7 @@ layout: default
 
 # Songwards
 
-Located [here](songwards.dev) with github repository [here](https://github.com/benjaminmadisen/songwards)
+Located [here](https://songwards.dev) with github repository [here](https://github.com/benjaminmadisen/songwards)!
 
 This is an ongoing project, started out of curiosity of what data Spotify made publicly available! It currently consists of two steps.
 
