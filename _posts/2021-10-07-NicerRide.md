@@ -3,6 +3,7 @@ title:  "NicerRide"
 layout: rmd
 ---
 
+# NicerRides: The Geography of EBikeshare in Minneapolis
 
 ## Background
 
