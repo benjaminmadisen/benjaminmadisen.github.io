@@ -1,6 +1,6 @@
 ---
 title:  "NicerRide"
-layout: default
+layout: rmd
 ---
 
 
