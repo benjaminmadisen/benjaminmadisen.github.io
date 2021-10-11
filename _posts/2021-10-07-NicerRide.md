@@ -14,7 +14,7 @@ ideal candidate for bikeshare, which spreads upfront costs over a large
 set of users. The Minneapolis bikeshare program NiceRide, currently
 operated by Lyft, began offering EBikes over the course of 2020. As an
 EBike true believer who commuted through a Minnesota winter,
-![](assets/ebike_report_files/winter_bike.jpg)
+![](/assets/ebike_report_files/winter_bike.jpg)
 I’m pretty excited by what this means for cities. Bikeable cities are a
 joy to navigate - you get human-scale amenity density, but with a larger
 mobility radius than just by foot. And in my experience EBikes solve a
@@ -30,7 +30,7 @@ meant to the bikeshare system. At a high level, EBike option was quite
 high: the EBike share of rides went from zero to being the clear
 majority over the course of 2020:
 
-![](assets/ebike_report_files/figure-gfm/ebikeshare-1.png)<!-- -->
+![](/assets/ebike_report_files/figure-gfm/ebikeshare-1.png)<!-- -->
 
 [Other research](https://nabsa.net/about/industry/) has discussed the
 impact of EBikes on overall ridership in bikeshare systems. But because
@@ -47,7 +47,7 @@ stopped. But to avoid giving overly identifying details for dockless
 riders, those ride start/stop locations are rounded to the nearest .01
 degrees of longitude and latitude.
 
-![](assets/ebike_report_files/figure-gfm/geog20-1.png)<!-- -->
+![](/assets/ebike_report_files/figure-gfm/geog20-1.png)<!-- -->
 
 A lot of hopes around EBikes is that they won’t only change the volume
 of bikers, but will help spread out the geography of where people ride -
@@ -55,7 +55,7 @@ making more parts of the city bikeable. At a high level, we can see some
 subtly different patterns looking at the same map for 2019 and 2021, a
 sort of “before” and “after” EBikes were part of the NiceRide network.
 
-![](assets/ebike_report_files/figure-gfm/geog1921-1.png)<!-- -->
+![](/assets/ebike_report_files/figure-gfm/geog1921-1.png)<!-- -->
 
 Because EBikes were gradually adopted over the course of 2020, the ride
 data from that year gives us a chance to more granularly test what
@@ -79,7 +79,7 @@ Bridge](https://en.wikipedia.org/wiki/Stone_Arch_Bridge_(Minneapolis))
 and the second containing much of the East Bank of the University of
 Minnesota campus, went in 2020:
 
-![](assets/ebike_report_files/figure-gfm/geogsubset-1.png)<!-- -->
+![](/assets/ebike_report_files/figure-gfm/geogsubset-1.png)<!-- -->
 
 We can look at each of these “start-end” pairs as a single trip
 category, in order to ask the question “where do people bike in
@@ -87,7 +87,7 @@ Minneapolis?” Filtering out pairs without rides for the moment, the
 counts of these pairs has a strongly right-skewed distribution (values
 at 50 include top-capped records):
 
-![](assets/ebike_report_files/figure-gfm/pair_dist-1.png)<!-- -->
+![](/assets/ebike_report_files/figure-gfm/pair_dist-1.png)<!-- -->
 
 We can model these trip counts using Negative Binomial regression, a
 subset of Poisson regression. Poisson regression assumes that each value
